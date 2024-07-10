@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://rkoireng.github.io/page/"
+url: "https://rkoireng.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Research Blog                                  # site's title
