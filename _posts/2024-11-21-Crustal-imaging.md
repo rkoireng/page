@@ -3,7 +3,7 @@ layout: post
 title: Enhanced Receiver Function
 tags: [Katex, Mermaid, Markdown]
 feature-img: "assets/img/feature-img/Cas.png"
-thumbnail: "assets/img/thumbnails/feature-img/Cas.png"
+thumbnail: "assets/img/feature-img/Cas.png"
 categories: Demo
 ---
 
