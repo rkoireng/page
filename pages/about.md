@@ -9,7 +9,7 @@ tags: [Page]
 
 
 <p align="left" width="100%">
-    <img width="33%" src="assets/img/thumbnails/feature-img/avatar.jpg">
+    <img width="33%" src="pages/assets/img/avatar.jpg">
 </p>
 
 
