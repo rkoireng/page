@@ -23,5 +23,5 @@ A numerical test to show the removal of reverberation effects through spectral w
 
 {% include aligner.html images="feature-img/Stacked after.png" column=1 %}
 
-## [Go to the notebook.](https://rkoireng.github.io/pluto/Interferometry.html)
+## [Go to the notebook.](https://rkoireng.github.io/pluto/Autocorrelation.html)
 
