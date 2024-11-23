@@ -6,9 +6,64 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+<p align="left" width="100%">
+    <img width="33%" src="/assets/img/avatar.jpg">
+</p>
+
+
  
+ 
+# Tiente Rengneichuong
+
+| Contact | Details |
+|---------|---------|
+| Email | [rkoren29@gmail.com] |
+
+
+## Research Interests
+
+- Teleseismic Imaging
+- Global Seismology
+- Neural Networks
+
+## Education
+
+| Degree | Institution | Year | Details |
+|--------|-------------|------|---------|
+| M.Sc. in Geophysics | **IIT Kharagpur**,West Bengal,India | 2019 | Master Thesis: "Shear wave splitting of teleseismic waves in Bhutan Himalaya " |
+| B.Sc. in Physics | **St. Stephens College**,Delhi,India | 2017 | |
+
+## Academic Positions
+
+| Position | Institution | Duration |
+|----------|-------------|----------|
+| PhD Candidate | **Centre for Earth Sciences,Indian Institute of Science**, Bangalore,India | 2023 - Present |
+| Research Assistant | **Centre for Earth Sciences,Indian Institute of Science**, Bangalore,India | 2022 - 2023 |
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+1. Author, A., Author, B., & Your Name, C. (Year). Title of paper. *Journal Name*, Volume(Issue), Pages. DOI.
+2. Your Name, A., Author, B., & Author, C. (Year). Title of paper. *Journal Name*, Volume(Issue), Pages. DOI.
+
+
+### Conference Presentations
+
+1. IUGG Mathematical Geophysics Conference 2024 IIT Bombay, Poster Presentation.
+2. Machanical Divisional Symposium, Indian Institute of Science, 2024, Poster Presentation
+## Skills
+
+| Category | Skills |
+|----------|--------|
+| Coding | Python,MATLAB,Julia |
+| Signal Processing | Earthquake Data Analysis |
+| Sports | Football, Table Tennis |
+| Languages |English,Hindi,Manipuri,Koireng|
+
+## References
+
+Available upon request 
+
