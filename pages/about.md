@@ -12,7 +12,7 @@ tags: [Page]
     justify-content: space-around;
 }
 </style>
-{% include aligner.html images="avatar.jpg"}
+{% include aligner.html images="avatar.jpg"%}
 
  
  
