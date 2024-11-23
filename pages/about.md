@@ -6,9 +6,13 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-
-
-{% include aligner.html images="avatar.jpg" column=3 %}
+<style>
+.image-container {
+    display: flex;
+    justify-content: space-around;
+}
+</style>
+{% include aligner.html images="avatar.jpg"}
 
  
  
