@@ -8,10 +8,7 @@ tags: [Page]
 
 
 
-<p align="left" width="100%">
-    <img width="33%" src="{{ site.baseurl }}/assets/img/avatar.jpg">
-</p>
-
+{% include aligner.html images="assets/img/avatar.jpg" column=1 %}
 
  
  
