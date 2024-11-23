@@ -8,7 +8,7 @@ tags: [Page]
 
 
 
-{% include aligner.html images="avatar.jpg" column=1 %}
+{% include aligner.html images="avatar.jpg" column=3 %}
 
  
  
