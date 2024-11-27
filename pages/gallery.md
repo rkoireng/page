@@ -9,6 +9,10 @@ position: 3
 tags: [Page]
 ---
 
-
+<style>
+img {
+    width: 50%;
+}
+</style>
 
 {% include gallery.html gallery_path=page.gallery_path %}
