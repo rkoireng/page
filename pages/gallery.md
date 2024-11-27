@@ -11,7 +11,7 @@ tags: [Page]
 
 <style>
 img {
-    width: 50%;
+    width: 30%;
 }
 </style>
 
