@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 subtitle: Live Life Long 
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/pics"
 excluded: true
 position: 3
 tags: [Page]
@@ -11,7 +11,7 @@ tags: [Page]
 
 <style>
 img {
-    width: 30%;
+    width: 20%;
 }
 </style>
 
